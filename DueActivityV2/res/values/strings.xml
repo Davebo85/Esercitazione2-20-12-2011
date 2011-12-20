@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Main Activity</string>
+    <string name="app_name">DueActivityV2</string>
+    <string name="hello2">ciao</string>
+    <string name="testobutton">Start</string>
+
+</resources>
